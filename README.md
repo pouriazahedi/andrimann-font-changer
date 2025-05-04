@@ -1,41 +1,40 @@
-# Andrimann Font Changer
+# Fontify – Custom Fonts for WordPress
 
-A simple yet powerful WordPress plugin that allows website admins to change the font of their website from the frontend—without writing a single line of code.
+Fontify is a lightweight and easy-to-use WordPress plugin that lets you apply your custom fonts to your site without touching any code. Whether you want to upload your own fonts or use system defaults, Fontify makes it simple.
 
 ## Features
 
-- Upload custom .woff2 fonts via the WordPress admin
-- Apply selected font globally across the site
-- No need to modify theme files
-- Lightweight and fast
-- Perfect for Persian and RTL websites
+- Upload custom font files (WOFF2, WOFF, TTF, etc.)
+- Apply fonts to body, headings, or any element using selectors
+- Fallback to system fonts if no custom font is uploaded
+- No coding required – just plug & play
+- Clean and minimal footprint
 
 ## Installation
 
-1. Download the ZIP file from the Releases (https://github.com/pouriazahedi/andrimann-font-changer/releases) section.
-2. Go to your WordPress dashboard → Plugins → Add New → Upload Plugin.
-3. Select the ZIP file and click Install Now.
-4. Activate the plugin.
-5. Go to Appearance → Font Changer to select and apply your font.
-
-## Compatibility
-
-- WordPress 5.0+
-- Fully compatible with most themes and page builders (e.g., Astra, Elementor, Gutenberg)
+1. Download the plugin from the WordPress Plugin Directory (https://wordpress.org/plugins/fontify/)
+2. Or upload the plugin files to the /wp-content/plugins/fontify/ directory
+3. Activate the plugin through the 'Plugins' menu in WordPress
+4. Go to Appearance > Fontify and set your preferred font options
 
 ## Screenshots
 
+!Fontify Settings  
+*Customize your fonts easily from the WordPress dashboard.*
 
-## Future Plans
+## Changelog
 
-- Add Google Fonts support  
-- Let users choose different fonts for headings and body text  
-- Live preview before applying fonts
-
-## Contributing
-
-Have suggestions or found a bug? Open an issue (https://github.com/pouriazahedi/andrimann-font-changer/issues) or submit a pull request. All contributions are welcome!
+### 1.0.0
+- Initial release
+- Upload and apply custom fonts
+- Basic fallback support
 
 ## License
 
-This plugin is licensed under the [MIT License](LICENSE).
+This plugin is licensed under the GPLv2 or later (https://www.gnu.org/licenses/gpl-2.0.html).
+
+## Author
+
+Created with love by Pouria Zahedi
+
+---
