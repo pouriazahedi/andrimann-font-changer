@@ -1,0 +1,50 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Fontify 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/fontify\n"
+"POT-Creation-Date: 2025-04-23\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: ChatGPT POT Generator\n"
+"X-Domain: fontify\n"
+
+#: fontify.php
+msgid "Custom Font Loader"
+msgstr ""
+
+#: fontify.php
+msgid "Upload and use your custom fonts in WordPress admin and frontend."
+msgstr ""
+
+#: fontify.php
+msgid "Custom Font"
+msgstr ""
+
+#: fontify.php
+msgid "Font Name (font-family)"
+msgstr ""
+
+#: fontify.php
+msgid "Font File (woff or woff2)"
+msgstr ""
+
+#: fontify.php
+msgid "Save Settings"
+msgstr ""
+
+#: fontify.php
+msgid "Font uploaded successfully."
+msgstr ""
+
+#: fontify.php
+msgid "Error uploading file."
+msgstr ""
+
+#: fontify.php
+msgid "Only woff and woff2 formats are supported."
+msgstr ""
+
+#: fontify.php
+msgid "Set Custom Font"
+msgstr ""
